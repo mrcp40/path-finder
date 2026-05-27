@@ -1,0 +1,158 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(week9.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  AI+GetNeighbor.cpp
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+GetNeighbor.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+GetNeighbor.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+GetNeighbor.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+GetNeighbor.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+GetNeighbor.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+GetNeighbor.cpp”)
+  
+  AI+Interaction.cpp
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Interaction.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Interaction.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Interaction.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Interaction.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Interaction.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Interaction.cpp”)
+  
+  AI+RandomSearch.cpp
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+RandomSearch.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+RandomSearch.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+RandomSearch.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+RandomSearch.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+RandomSearch.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+RandomSearch.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\AI+RandomSearch.cpp(71,62): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  AI+Restart.cpp
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Restart.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Restart.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Restart.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Restart.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Restart.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Restart.cpp”)
+  
+  AI+Update.cpp
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Update.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Update.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Update.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Update.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Update.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI+Update.cpp”)
+  
+  AI.cpp
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“AI.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\AI.cpp(29,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Lasalle\S4\2D game\raylib\week9\AI.cpp(33,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  RandomNode.cpp
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RandomNode.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RandomNode.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RandomNode.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RandomNode.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RandomNode.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“RandomNode.cpp”)
+  
+  main.cpp
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(8,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Lasalle\S4\2D game\raylib\week9\Node.h(52,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  正在生成代码...
+  week9.vcxproj -> D:\Lasalle\S4\2D game\raylib\x64\Debug\week8+.exe
